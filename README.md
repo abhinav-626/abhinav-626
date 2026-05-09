@@ -6,24 +6,14 @@ I explore how systems scale, fail, recover, and communicate — from UPI transac
 
 ---
 
-## Currently Exploring
+## Systems Being Explored
 
-- Distributed Systems
-- Kafka & Event-driven Architecture
-- AI Systems & Orchestration
-- Backend Scalability
-- System Design
-
----
-
-## Systems I've Broken Down
-
-- How UPI processes payments in seconds
-- How Swiggy assigns delivery partners
-- How WhatsApp delivers messages instantly
-- How Netflix recommends content
-- How AI systems process prompts
-- How Redis caching improves performance
+* UPI transaction systems
+* Recommendation systems
+* Distributed event pipelines
+* AI orchestration systems
+* Kafka-based architectures
+* Backend scalability patterns
 
 ---
 
@@ -35,26 +25,53 @@ I explore how systems scale, fail, recover, and communicate — from UPI transac
 
 ---
 
-## GitHub Stats
+## Engineering Activity
 
-[![Abhinav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abhinav-626)](https://github.com/abhinav-626/github-readme-activity-graph)
+[![Abhinav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abhinav-626&theme=github-compact)](https://github.com/abhinav-626/github-readme-activity-graph)
 ---
 
-## Contribution Activity
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true" />
-</p>
+## GitHub Stats
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhinav-626&theme=dark&count_private=true&theme=radical)]
 ---
 
 ## System of the Week
 
 ```txt
-How UPI Handles Transactions
+## System of the Week
 
-User → PSP → NPCI → Bank → Response
+    👤 User --> 📱 PSP
+    📱 PSP --> ⚡ NPCI
+    ⚡ NPCI --> 🏦 Bank
+    🏦 Bank --> ✅ Response
+```
 
-The real challenge:
-Handling millions of concurrent transactions
-with low latency and high reliability.
+
+---
+
+## Current Focus
+
+* Building scalable backend systems
+* Understanding distributed architectures
+* Exploring AI system workflows
+* Breaking down real-world systems simply
+
+---
+
+## Philosophy
+
+```txt
+Understanding systems > memorizing tools
+
+Clarity > complexity
+```
+
+---
+
+## Connect
+
+* LinkedIn → https://linkedin.com/abhinav-626/
+
+
+
