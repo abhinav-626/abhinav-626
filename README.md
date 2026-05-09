@@ -37,12 +37,7 @@ I explore how systems scale, fail, recover, and communicate — from UPI transac
 
 ## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&title_color=3b82f6&icon_color=3b82f6&text_color=c9d1d9&bg_color=0d1117" height="170" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&title_color=3b82f6&text_color=c9d1d9&bg_color=0d1117" height="170" />
-</p>
-
+[![Abhinav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abhinav-626)](https://github.com/abhinav-626/github-readme-activity-graph)
 ---
 
 ## Contribution Activity
