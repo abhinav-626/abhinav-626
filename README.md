@@ -69,7 +69,7 @@ Clarity > complexity
 
 ---
 
-## Connect
+## Connect: 
 
 * LinkedIn → https://linkedin.com/abhinav-626/
 
