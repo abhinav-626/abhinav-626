@@ -3,7 +3,7 @@
 Full Stack Engineer focused on backend systems, distributed architecture, and simplifying complex systems.
 
 I explore how systems scale, fail, recover, and communicate — from UPI transactions to distributed event pipelines.
-👋👋
+👋👋👋👋
 ## Systems Being Explored
 
 * UPI transaction systems
