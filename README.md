@@ -12,7 +12,6 @@ I explore how systems scale, fail, recover, and communicate — from UPI transac
 * Kafka-based architectures
 * Backend scalability patterns
 
----
 
 ## Tech Stack
 
@@ -20,7 +19,14 @@ I explore how systems scale, fail, recover, and communicate — from UPI transac
   <img src="https://skillicons.dev/icons?i=java,spring,kafka,react,docker,aws,postgres,redis" />
 </p>
 
----
+
+## Connect with me:
+<p align="left">
+<a href="https://www.linkedin.com/in/abhinav-bajpai626/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhinav-bajpai626/" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/abhinav626" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="harsh_sharmaz" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/2D_201500011_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abhinav-bajpai" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/abhinavbajpai/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harsh_sharma_z" height="30" width="40" /></a>
+</p>
 
 ## Engineering Activity
 
